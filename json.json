@@ -1,0 +1,1404 @@
+{
+ "columns":{
+   "E":"Width",
+   "F":"Height",
+   "G":"Depth",
+   "H":"Drawers"
+   
+ },
+ "products":[
+   {
+     "sku":"B-CHCAB-HUTCH-36-72-WF",
+     "Description":"The Berkshire China Hutch provides ideal storage and display for any room.  They come standard with adjustable shelves,  glass panel doors in the hutch, and recessed panel or Shaker style doors in the base.  The china hutches are constructed in natural birch.",
+     "Category":"China Cabinets",
+     "Product":"Berkshire Classic China Hutches",
+     "E":["18","24","30","36","42"],
+     "F":["60","66","72","78","84"],
+     "G":["12"],
+     "H":["1 glass / 1 panel","2 glass / 2 panel"],
+     "color":["TBD","NA"],
+     "dimension":[
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"60",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,194.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,224.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,254.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,284.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,314.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"60",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$899.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$919.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$939.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$959.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$979.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"66",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,224.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,254.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,284.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,314.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,344.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"66",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$939.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$939.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$959.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$979.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$999.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"72",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,254.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,284.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,314.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,344.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,374.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"72",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$939.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$959.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$979.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"72",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$999.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,019.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"78",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":" $1,284.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,314.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,344.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,374.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,404.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"78",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$959.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$979.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$999.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,019.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,039.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"84",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,314.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,344.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,374.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,404.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,434.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"84",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$979.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$999.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,019.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,039.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,059.99"
+       }
+      ]
+   },
+   {
+     "sku":"B-CHCAB-STPBKHUTCH-36-72-WF",
+     "Description":"Berkshire Armoires are closets you can take with you. We all need more closet space and these are the perfect answer. All the extra hanging space you need in a closet you can move. Berkshire Armoires come standard with a recessed shelf, a hanging bar, and one exposed drawer.",
+     "Category":"China Cabinets",
+     "Product":"Berkshire Classic China Stepback Hutches",
+     "E":["18,","24","30","36","42"],
+     "F":["60","66","72","78","84"],
+     "G":["16"],
+     "H":["1 glass / 1 panel","2 glass / 2 panel"],
+     "color":["TBD","NA"],
+     "dimension":[
+      {
+         "finish":"Finished",
+         "E":"18",
+         "F":"60",
+         "G":"16",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,354.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"60",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,394.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"60",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,434.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"60",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,474.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"60",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,514.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"60",
+         "G":"16",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$1,017.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+         "F":"60",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,047.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"60",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,077.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"60",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,107.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"60",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,137.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"66",
+         "G":"16",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,394.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"66",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,434.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"66",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,474.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"66",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,514.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"66",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,554.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"66",
+         "G":"16",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$1,047.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+         "F":"66",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,077.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"66",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,107.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"66",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,137.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"66",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,167.99"
+       },
+       
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"72",
+         "G":"16",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,434.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"72",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,474.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"72",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,514.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"72",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,554.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"72",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,594.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"72",
+         "G":"16",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$1,077.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+         "F":"72",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,107.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"72",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,137.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"72",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,167.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"72",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,197.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"78",
+         "G":"16",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,474.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"78",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,514.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"78",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,554.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"78",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,594.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"78",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,634.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"78",
+         "G":"16",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$1,107.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+        "F":"78",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,137.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"78",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,167.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"78",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,197.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"78",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,227.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"84",
+         "G":"16",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,514.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"84",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,554.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"84",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,594.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"84",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,634.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"84",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,674.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"84",
+         "G":"16",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$1,137.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+        "F":"84",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,167.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"84",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,197.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"84",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,227.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"84",
+         "G":"16",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,257.99"
+       }
+       
+      ]
+   },
+   {
+     "sku":"B-CHCAB-CHINACAB-18-72-WF",
+     "Description":"The Berkshire China Cabinet provides ideal storage and display for any room.  They come standard with adjustable shelves, glass panel doors in the hutch and recessed panel or Shaker style doors in the base cabinet.  The china cabinets are constructed in natural birch.",
+     "Category":"China Cabinets",
+     "Product":"Berkshire Classic China Cabinets",
+     "E":["18,","24","30","36","42"],
+     "F":["60","66","72","78","84"],
+     "G":["12"],
+     "H":["1 glass / 1 panel","2 glass / 2 panel"],
+     "color":["TBD","NA"],
+     "dimension":[
+      {
+         "finish":"Finished",
+         "E":"18",
+         "F":"60",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,234.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,264.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,294.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,324.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,354.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"60",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$929.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$949.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$969.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$989.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"60",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,009.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"66",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,264.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,294.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,324.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,354.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,384.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"66",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$949.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$969.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$989.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,009.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"66",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,029.99"
+       },
+       
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"72",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,294.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,324.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,354.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,384.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,414.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"72",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$969.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$989.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,009.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,029.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"72",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,049.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"78",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,324.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,354.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,384.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,414.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,444.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"78",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$989.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+        "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,009.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,029.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,049.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"78",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,079.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"18",
+         "F":"84",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"TBD",
+         "price":"$1,354.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"24",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,384.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"30",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,414.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"36",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,444.99"
+       },
+       {
+         "finish":"Finished",
+         "E":"42",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"TBD",
+         "price":"$1,474.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"18",
+         "F":"84",
+         "G":"12",
+         "H":"1 glass / 1 panel",
+         "color":"NA",
+         "price":"$1,009.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"24",
+        "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,029.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"30",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,049.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"36",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,069.99"
+       },
+       {
+         "finish":"Unfinished",
+         "E":"42",
+         "F":"84",
+         "G":"12",
+         "H":"2 glass / 2 panel",
+         "color":"NA",
+         "price":"$1,089.99"
+       }
+       
+      ]
+   }
+ ]
+}
